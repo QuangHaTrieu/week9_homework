@@ -1,31 +1,17 @@
-Region,Type of travelling,Trips,Nights,longtitude,lattitude,,,,
-New South Wales,international,"3,664","95,220",145,-34,,,,
-Victoria,international,"2,394","61,084",142,-37,,,,
-Queensland,international,"2,101","51,472",144,-26,,,,
-South Australia,international,465,"14,315",132,-28,,,,
-Western Australia,international,804,"30,452",121,-29,,,,
-Tasmania,international,236,"4,267",147,-42,,,,
-Northern Territory,international,199,"4,544",133,-23,,,,
-Australian Capital Territory,international,190,"4,748",149,-35,,,,
-New South Wales,domestic,37 269,117 787,145,-34,,,,
-Victoria,domestic,28 600,82 551,142,-37,,,,
-Queensland,domestic,24 871,96 644,144,-26,,,,
-South Australia,domestic,7 459,25 843,132,-28,,,,
-Western Australia,domestic,10 950,49 915,121,-29,,,,
-Tasmania,domestic,3 146,12 651,147,-42,,,,
-Northern Territory,domestic,1 447,7 056,133,-23,,,,
-Australian Capital Territory,domestic,3 105,8 633,149,-35,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Region,type,trip,night,longitude,latitude
+New South Wales,international,3664,95220,145,-34
+Victoria,international,2394,61084,142,-37
+Queensland,international,2101,51472,144,-26
+South Australia,international,465,14315,132,-28
+Western Australia,international,804,30452,121,-29
+Tasmania,international,236,4267,147,-42
+Northern Territory,international,199,4544,133,-23
+Australian Capital Territory,international,190,4748,149,-35
+New South Wales,domestic,37269,117787,145,-34
+Victoria,domestic,28600,82551,142,-37
+Queensland,domestic,24871,96644,144,-26
+South Australia,domestic,7459,25843,132,-28
+Western Australia,domestic,10950,49915,121,-29
+Tasmania,domestic,3146,12651,147,-42
+Northern Territory,domestic,1447,7056,133,-23
+Australian Capital Territory,domestic,3105,8633,149,-35
