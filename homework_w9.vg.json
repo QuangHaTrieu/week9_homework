@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 800,
     "height": 450,
-    "title": "The number of visitors and nights stay at each states and territories in March 2024",
+    "title": "The number of trips and nights stay at each states and territories in March 2024",
     "projection": {"type": "equirectangular"},
     "layer": [
       {
