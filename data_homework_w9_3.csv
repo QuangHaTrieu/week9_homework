@@ -1,0 +1,8 @@
+Region,type,int_trip,do_trip,int_night,do_night,longitude,latitude,total_trips,total_night
+New South Wales,international,3664,37269,95220,117787,144.51,-33.35,40933,213007
+Victoria,international,2394,28600,61084,82551,142.73,-36.96,30994,143635
+Queensland,international,2101,24871,51472,96644,145.37,-24.72,26972,148116
+South Australia,international,465,7459,14315,25843,132.64,-28.84,7924,40158
+Western Australia,international,804,10950,30452,49915,120.83,-28.55,11754,80367
+Tasmania,international,236,3146,4267,12651,146.42,-42.29,3382,16918
+Northern Territory,international,199,1447,4544,7056,133.23,-22.48,1646,11600
